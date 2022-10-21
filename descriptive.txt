@@ -1,0 +1,29 @@
+||================================================================================================================================================||   
+||                                                                                                                                                ||                              
+||   """                                                                                                                                          ||   
+||   IMPORTANT                                                                                                                                    ||   
+||                                                                                                                                                ||   
+||   The script is still under development and may have unexpected                                                                                ||   
+||   behavior and results, this project is for learning purposes only,                                                                            ||   
+||   use it with care.                                                                                                                            ||   
+||   """                                                                                                                                          ||   
+||   Enter the paths of folders or files you want to copy *[origin]* -> *[destiny]*                                                               ||   
+||                                                                                                                                                ||   
+||   what matters for the script is the structure of the file must start without                                                                  ||   
+||   spacing at the beginning after *[path of origin]* must have an arrow ->                                                                      ||   
+||   and then *[path of destiny]*                                                                                                                 ||   
+||                                                                                                                                                ||   
+||   ---------------------------------------------------------------------------------------------------------------------------------            ||   
+||   |                                                     Valid examples                                                            |            ||   
+||   |                                                                                                                               |            ||   
+||   |    *[/home/computador/Área de Trabalho/pasta]* -> *[/home/computador/Área de Trabalho/backup]*                                |            ||   
+||   |    *[  /home/computador/Área de Trabalho/test/doc1.txt  ]*  -> *[/home/computador/Área de Trabalho/backup]*                   |            ||   
+||   |    *[/home/computador/Área de Trabalho/Music/ringing.mp3]*  -> *[  /home/computador/ ]*                                       |            ||   
+||   |                                                                                                                               |            ||                                                                                                          
+||   ---------------------------------------------------------------------------------------------------------------------------------            ||   
+||                                                                                                                                                ||   
+||================================================================================================================================================||   
+
+*[origin here]* -> *[destiny here]*
+*[origin here]* -> *[destiny here]*
+
